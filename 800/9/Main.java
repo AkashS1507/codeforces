@@ -1,3 +1,4 @@
+//Goals of victory
 import java.util.*;
 
 public class Main {

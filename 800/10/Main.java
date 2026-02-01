@@ -1,3 +1,4 @@
+//Target practice
 import java.util.*;
 public class Main {
     public static int[][] scores = {
