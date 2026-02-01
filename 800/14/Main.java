@@ -10,9 +10,6 @@ public class Main {
             int b = sc.nextInt();
             int c = sc.nextInt();
 
-            a = a + c;
-            b = b + c;
-
             if (a > b) {
                 System.out.println("First");
             } 
